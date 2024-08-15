@@ -1,10 +1,7 @@
 
 <div align="center">
   <img src="assets/Spotify.svg" width="300" height="150" align="center">
-  
-  [![Badge](https://img.shields.io/github/issues/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/syedtasavour-hub/Spotify/issues)
-  [![Badge](https://img.shields.io/github/forks/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/syedtasavour-hub/Spotify/network)
-  [![Badge](https://img.shields.io/github/stars/tthn0/Spotify-Readme?style=for-the-badge)](https://github.com/syedtasavour-hub/Spotify/stargazers)
+ 
   
 </div>
 
