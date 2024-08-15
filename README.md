@@ -12,7 +12,7 @@
 ## Description :
 This project is a functional and responsive website clone of the popular music streaming platform Spotify. It utilizes HTML to structure the content, CSS to style the layout and elements.
 
-### Preview Link : https://syedtasavour-hub.github.io/Spotify/
+### Preview Link : https://syedtasavour.github.io/Spotify-Home-Page-Clone/
 ## Tech - Used
 
 |Frontend|Frame Works|Editors|
@@ -24,12 +24,12 @@ This project is a functional and responsive website clone of the popular music s
 
 
 
-##  👉👉  [Click Here To visit Website](https://syedtasavour-hub.github.io/Spotify/)
+##  👉👉  [Click Here To visit Website](https://syedtasavour.github.io/Spotify-Home-Page-Clone/)
 
 ## Running locally
 1. Clone Git repo
     ```sh
-    $ https://github.com/syedtasavour/Spotify.git
+    $ https://syedtasavour.github.io/Spotify-Home-Page-Clone.git
     ```
 
 ## 🤝 Contributing
